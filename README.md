@@ -4,22 +4,18 @@
 
 ![python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat) ![golang](https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat)
 
-<!--
-**hikaru-champion/hikaru-champion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :cloud:  I'm Cloud Engineer in Japan. Recently, I have been involved in Google Cloud's CCoE activities at a retail company.
+    - Cloud Cost Optimization.
+    - Implement Guardrails.
+    - Google Cloud Project Management.
+    - Architecture and Technical Consulting.
+    - Data Integration between AWS and Google Cloud.
+    - Cloud Armor Implementation for DDoS and WAF Protection.
+    - Identity and Access Management (IAM) in Cloud Identity.
 
-## Presentation
+
 
 ### LT
 
