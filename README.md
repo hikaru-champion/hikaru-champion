@@ -29,11 +29,10 @@ Here are some ideas to get you started:
 
 ### Blog
 
-- Tech Blog at previous company (Future Architect)
-https://future-architect.github.io/authors/%E6%B8%A1%E9%82%89%E5%85%89/
+- [Future Tech Blog](https://future-architect.github.io/authors/%E6%B8%A1%E9%82%89%E5%85%89/) at previous company (Future Architect)
 
-- Tech Blog at Zenn
-https://zenn.dev/hi_ka_ru
+
+- Tech Blog at [Zenn](https://zenn.dev/hi_ka_ru)
 
 
 ## Certification
