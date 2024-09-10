@@ -51,6 +51,7 @@
 |Google Cloud Certified - Professional Cloud Developer        | 2024/5 |
 |Google Cloud Certified - Professional Cloud DevOps Engineer  | 2024/6 |
 |Google Cloud Certified - Professional Cloud Security Engineer| 2024/8 |
+|Google Cloud Certified - Cloud Digital Leader                | 2024/9 |
 
 ### :cloud: AWS
 
