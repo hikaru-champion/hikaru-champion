@@ -43,15 +43,16 @@
 
 ### :cloud: Google Cloud
 
-|Certification                                                | Activte date |
-|-------------------------------------------------------------| -------|
-|Google Cloud Certified - Associate Cloud Engineer            | 2022/7 |
-|Google Cloud Certified - Professional Cloud Architect        | 2022/9 |
-|Google Cloud Certified - Professional Cloud Network Engineer | 2023/8 |
-|Google Cloud Certified - Professional Cloud Developer        | 2024/5 |
-|Google Cloud Certified - Professional Cloud DevOps Engineer  | 2024/6 |
-|Google Cloud Certified - Professional Cloud Security Engineer| 2024/8 |
-|Google Cloud Certified - Cloud Digital Leader                | 2024/9 |
+|Certification                                                 | Activte date |
+|--------------------------------------------------------------| -------|
+|Google Cloud Certified - Associate Cloud Engineer             | 2022/7 |
+|Google Cloud Certified - Professional Cloud Architect         | 2022/9 |
+|Google Cloud Certified - Professional Cloud Network Engineer  | 2023/8 |
+|Google Cloud Certified - Professional Cloud Developer         | 2024/5 |
+|Google Cloud Certified - Professional Cloud DevOps Engineer   | 2024/6 |
+|Google Cloud Certified - Professional Cloud Security Engineer | 2024/8 |
+|Google Cloud Certified - Cloud Digital Leader                 | 2024/9 |
+|Google Cloud Certified - Professional Cloud Database Engineer | 2024/9 |
 
 ### :cloud: AWS
 
