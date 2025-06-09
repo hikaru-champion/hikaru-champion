@@ -53,6 +53,7 @@
 |Google Cloud Certified - Professional Cloud Security Engineer | 2024/8 |
 |Google Cloud Certified - Cloud Digital Leader                 | 2024/9 |
 |Google Cloud Certified - Professional Cloud Database Engineer | 2024/9 |
+|Google Cloud Certified - Professional Cloud Data Engineer     | 2025/2 |
 
 ### :cloud: AWS
 
